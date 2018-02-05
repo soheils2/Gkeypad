@@ -1,0 +1,19 @@
+{
+  "name": "Gkeypad-GiantKeypad",
+  "keywords": "keyboard, keypad, Giant",
+  "description": "A simple giant keyboard library for maximize the keys with minimum pins.",
+  "include": "Arduino/Gkeypad",
+  "repository":
+  {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies":
+  {
+    "name": "Gkeypad",
+    "frameworks": "arduino"
+  },
+  "version": “1.0.0”,
+  "frameworks": "arduino",
+  "platforms": "atmelavr"
+}
